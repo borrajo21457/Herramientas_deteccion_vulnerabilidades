@@ -5,8 +5,8 @@
   "dependencies": {
     "body-parser": "1.20",
     "express": "4.22",
-    "jsonwebtoken": "7.0",
-    "mysql": "2.0"
+    "jsonwebtoken": "9.0",
+    "mysql": "2.14"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
