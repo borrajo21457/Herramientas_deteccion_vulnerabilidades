@@ -144,3 +144,5 @@ Adjunta una captura de pantalla del resultado y comenta las sugerencias que real
   `Utilizaría Dependabot, Renovate y npm audit por ser herramientas que analizan las dependencias del proyecto y comparan sus versiones con bases de datos de vulnerabilidades conocidas, avisando cuando una librería es insegura y proponiendo actualizaciones a versiones más seguras.`
 - Si quisieras detectar vulnerabilidades en el código propio del proyecto, ¿qué herramientas de las estudiadas utilizarías?
 `Utilizaría eslint y SonarCloud por ser herramientas que realizan análisis estático del código fuente y permiten detectar malas prácticas, posibles fallos de seguridad y vulnerabilidades como inyecciones, uso inseguro de funciones o errores de validación de datos.`
+
+## [Enlace al repositorio público](https://github.com/borrajo21457/Herramientas_deteccion_vulnerabilidades)
